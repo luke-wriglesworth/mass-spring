@@ -129,5 +129,3 @@ plt.xlabel("Time [s]")
 plt.ylabel("Total Energy [J]")
 plt.legend()
 plt.grid()
-
-plt.show()
